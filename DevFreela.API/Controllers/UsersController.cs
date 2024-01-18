@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DevFreela.API.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevFreela.API.Controllers
@@ -14,9 +15,15 @@ namespace DevFreela.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(string username, string password)
+        public IActionResult Post([FromBody] CreateUserModel createUserModel)
         {
-            return NoContent();
+            return CreatedAtAction(nameof(GetById), new { id = 1}, createUserModel);
+        }
+
+        [HttpPut("{id}/login")]
+        public IActionResult Login(int id, [FromBody] LoginModel loginModel)
+        {
+            return Ok();
         }
     }
 }

@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\.Net\\DevFreela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\services\\interfaces\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\interfaces\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070E75EF-5C74-45BD-964B-164B6451E289}|DevFreela.Infraestructure\\DevFreela.Infraestructure.csproj|d:\\projects\\.net\\devfreela\\devfreela.infraestructure\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070E75EF-5C74-45BD-964B-164B6451E289}|DevFreela.Infraestructure\\DevFreela.Infraestructure.csproj|solutionrelative:devfreela.infraestructure\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\inputmodels\\updateprojectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\inputmodels\\updateprojectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\inputmodels\\newprojectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\inputmodels\\newprojectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\inputmodels\\projectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\inputmodels\\projectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\inputmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\inputmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\inputmodels\\createcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\inputmodels\\createcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|d:\\projects\\.net\\devfreela\\devfreela.application\\devfreela.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB9BB12B-12E8-43E5-8D95-8DD1C12188BE}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\devfreela.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\exceptions\\projectalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\exceptions\\projectalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\updateprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\updateprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\openingtimeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\openingtimeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|d:\\projects\\.net\\devfreela\\devfreela.core\\enums\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A145A0A-AE42-48A5-88E4-AD86D758AC0F}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\enums\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\createcommentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\createcommentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\devfreela.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\devfreela.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|d:\\projects\\.net\\devfreela\\devfreela.api\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1A712-B554-4A4E-BC93-2051B7860BB3}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISkillService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:57:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:18:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevFreelaDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Infraestructure\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infraestructure\\Persistence\\DevFreelaDbContext.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Infraestructure\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeToolTip": "DevFreela.Infraestructure\\Persistence\\DevFreelaDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T01:17:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\Project.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\Project.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\Project.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwDwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:16:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProjectInputModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\UpdateProjectInputModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\InputModels\\UpdateProjectInputModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\UpdateProjectInputModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\InputModels\\UpdateProjectInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:16:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewProjectInputModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\NewProjectInputModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\InputModels\\NewProjectInputModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\NewProjectInputModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\InputModels\\NewProjectInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:15:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\ProjectDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\InputModels\\ProjectDetailsViewModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\ProjectDetailsViewModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\InputModels\\ProjectDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:15:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\ProjectViewModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\InputModels\\ProjectViewModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\ProjectViewModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\InputModels\\ProjectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:14:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:09:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectComment.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\ProjectComment.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\ProjectComment.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\ProjectComment.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\ProjectComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:24:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCommentInputModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\CreateCommentInputModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\InputModels\\CreateCommentInputModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\InputModels\\CreateCommentInputModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\InputModels\\CreateCommentInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T01:16:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DevFreela.Application",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+              "RelativeDocumentMoniker": "DevFreela.Application\\DevFreela.Application.csproj",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+              "RelativeToolTip": "DevFreela.Application\\DevFreela.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-18T01:07:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\Skill.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\Skill.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T00:59:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\User.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:08:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSkill.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\UserSkill.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\UserSkill.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\UserSkill.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\UserSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:13:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectAlreadyStartedException.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
+              "RelativeToolTip": "DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:32:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "DevFreela.Core\\Repositories\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:33:23.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T00:57:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DevFreela.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T02:31:26.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectStatusEnum.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
+              "RelativeToolTip": "DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T01:28:57.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T23:15:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProjectModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\UpdateProjectModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\UpdateProjectModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\UpdateProjectModel.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\UpdateProjectModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T00:54:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OpeningTimeOption.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\OpeningTimeOption.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\OpeningTimeOption.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\OpeningTimeOption.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\OpeningTimeOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T23:57:20.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Program.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Program.cs",
+              "RelativeToolTip": "DevFreela.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T00:02:22.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DevFreela.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\appsettings.json",
+              "RelativeToolTip": "DevFreela.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-29T23:55:34.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCommentModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateCommentModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\CreateCommentModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateCommentModel.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\CreateCommentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T03:36:14.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateProjectModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateProjectModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\CreateProjectModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateProjectModel.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\CreateProjectModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T00:44:46.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T23:24:29.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Models\\CreateUserModel.cs",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\Models\\CreateUserModel.cs",
+              "RelativeToolTip": "DevFreela.API\\Models\\CreateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T23:24:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DevFreela.API",
+              "DocumentMoniker": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+              "RelativeDocumentMoniker": "DevFreela.API\\DevFreela.API.csproj",
+              "ToolTip": "D:\\Projects\\.Net\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+              "RelativeToolTip": "DevFreela.API\\DevFreela.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-30T00:15:23.37Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

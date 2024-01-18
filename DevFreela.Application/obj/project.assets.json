@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DevFreela.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Core.dll": {}
+        }
+      },
+      "DevFreela.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DevFreela.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevFreela.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevFreela.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevFreela.Core/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
+    },
+    "DevFreela.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../DevFreela.Infraestructure/DevFreela.Infraestructure.csproj",
+      "msbuildProject": "../DevFreela.Infraestructure/DevFreela.Infraestructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DevFreela.Core >= 1.0.0",
+      "DevFreela.Infraestructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pc_02\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "projectName": "DevFreela.Application",
+      "projectPath": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "packagesPath": "C:\\Users\\pc_02\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pc_02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            },
+            "D:\\Projects\\.Net\\DevFreela\\DevFreela.Infraestructure\\DevFreela.Infraestructure.csproj": {
+              "projectPath": "D:\\Projects\\.Net\\DevFreela\\DevFreela.Infraestructure\\DevFreela.Infraestructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
