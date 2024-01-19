@@ -1,5 +1,6 @@
 ﻿using DevFreela.Application.InputModels;
 using DevFreela.Application.Services.Interfaces;
+using DevFreela.Application.ViewModels;
 using DevFreela.Core.Entities;
 using DevFreela.Infraestructure.Persistence;
 using System;
